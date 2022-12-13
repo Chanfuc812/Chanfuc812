@@ -4,9 +4,9 @@
 - 🌱 I’m currently learning web, design, photoshop.
 - 💞️ I’m looking to collaborate on Github, Linkedin.
 - 📫 How to reach me 
-    . Facebook: https://www.facebook.com/chanfuccute
-    . Instagram: https://www.instagram.com/chanfucc/
-    . Twitter: https://twitter.com/Chanfuc812
+    + Facebook: https://www.facebook.com/chanfuccute
+    + Instagram: https://www.instagram.com/chanfucc/
+    + Twitter: https://twitter.com/Chanfuc812
 
 <!---
 Chanfuc812/Chanfuc812 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
