@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Chanfuc
-- ![alt](https://i.pinimg.com/originals/23/19/15/2319154c02c001f8a583703689de9048.gif)
+![alt](https://i.pinimg.com/originals/23/19/15/2319154c02c001f8a583703689de9048.gif)
 - 👀 I’m interested in playing games, football, chess.
 - 🌱 I’m currently learning web, design, photoshop.
 - 💞️ I’m looking to collaborate on Github, Linkedin.
