@@ -7,6 +7,7 @@
     + Facebook: https://www.facebook.com/chanfuccute
     + Instagram: https://www.instagram.com/chanfucc/
     + Twitter: https://twitter.com/Chanfuc812
+    + Discord: https://discord.gg/Usp2wn74
 
 <!---
 Chanfuc812/Chanfuc812 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
