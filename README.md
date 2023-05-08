@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Chanfuc </h1>
 <h2 align="center">Imformation System</h2>
-<h3 align="center">A passionate frontend & backend developer from VietNam</h3>
-<img align ="right" alt="Coding" width="400" src = "(https://i.pinimg.com/originals/23/19/15/2319154c02c001f8a583703689de9048.gif)" />
+<h3 align="center">A passionate Frontend Developer from VietNam</h3>
+<img align ="right" alt="Coding" width="400" src = "https://i.pinimg.com/originals/23/19/15/2319154c02c001f8a583703689de9048.gif" />
 
 
 - 🌱 I’m currently learning **ReactJS, React Native**
