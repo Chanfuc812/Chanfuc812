@@ -1,8 +1,8 @@
 <h1 align="center">HI, I'M Chanfuc 👋</h1>
 <h2 align="center">A funny but very talented programmer</h2>
-<h3 align="center">A passionate Frontend Developer from VietNam</h3>
-<img align ="right" alt="Coding" width="400" src = "https://i.pinimg.com/originals/23/19/15/2319154c02c001f8a583703689de9048.gif" />
+<img align ="right" alt="Coding" width="" src = "https://i.pinimg.com/originals/23/19/15/2319154c02c001f8a583703689de9048.gif" />
 
+- I am a passionate Frontend Developer from VietNam
 
 - 🌱 I’m currently learning **ReactJS, React Native**
 
